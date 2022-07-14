@@ -29,3 +29,12 @@ Test Data
 Input number: 3
 Expected Output :
 Wednesday
+
+
+Write a Java program that reads in two floating-point numbers and tests whether they are the same up to three decimal places. Go to the editor
+
+Test Data
+Input floating-point number: 25.586
+Input floating-point another number: 25.589
+Expected Output :
+They are different
